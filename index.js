@@ -25,3 +25,8 @@ function newFeatureAdd(){
     console.log('This is a new featA BC')
 
 }
+
+function newFeatureSub(){
+    console.log('this is good feat')
+    console.log('how are you')
+}
