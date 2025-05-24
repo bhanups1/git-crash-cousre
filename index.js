@@ -3,7 +3,7 @@ const name1 = 'bhanu partap'
 const dob = 11/11/2004;
 
 function sayName (){
-    console.log ('my name is + name1')
+    console.log ('My Name is ${name1}')
 }
 
 
