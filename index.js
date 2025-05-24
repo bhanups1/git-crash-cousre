@@ -18,3 +18,8 @@ function newFn(){
     console.log('Hey I am a new fn')
 }
 
+
+
+function newFeatureAdd(){
+    console.log('This is a new feat')
+}
